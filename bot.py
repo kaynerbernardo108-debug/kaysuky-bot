@@ -1489,4 +1489,4 @@ async def permissions_error(
 # 🚀 INICIALIZAÇÃO
 # ==============================================================================
 
-bot.run('MTU1MTcxMTIxOTc2Mzc3NzU0Ng.GvjIOD.DFQCwtyK6D573MStgWjRKdgGUC48vP49Asg4xw')
+bot.run('MTU1MTcxMTIxOTc2Mzc3NzU0Ng.G7qInx.1ocQn0sRJRe-TDQsLhX6O_OJT-npywwrZ1T6ag')
