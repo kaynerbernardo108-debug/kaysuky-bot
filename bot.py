@@ -1490,4 +1490,4 @@ async def permissions_error(
 # ==============================================================================
 
 import os
-bot.run(os.environ.get('MTU1MTcxMTIxOTc2Mzc3NzU0Ng.GOcCC9.jb2jTULOerIHBV3qfs4GUldxYPqo8Ls7b0aXPo'))
+bot.run(os.environ.get('MTU1MTcxMTIxOTc2Mzc3NzU0Ng.GOK8z2.iRNY6ntGVw0sIFbaQ71Id87i2GKRtB_LDTrUDA')
