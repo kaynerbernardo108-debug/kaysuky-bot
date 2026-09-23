@@ -1489,4 +1489,5 @@ async def permissions_error(
 # 🚀 INICIALIZAÇÃO
 # ==============================================================================
 
-bot.run('MTU1MTcxMTIxOTc2Mzc3NzU0Ng.G7qInx.1ocQn0sRJRe-TDQsLhX6O_OJT-npywwrZ1T6ag')
+import os
+bot.run(os.environ.get('MTU1MTcxMTIxOTc2Mzc3NzU0Ng.GOcCC9.jb2jTULOerIHBV3qfs4GUldxYPqo8Ls7b0aXPo'))
